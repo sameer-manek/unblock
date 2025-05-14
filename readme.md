@@ -4,4 +4,4 @@ This is a small game I developed to learn golang. The code is of real bad qualit
 
 Huge shoutout to https://github.com/fogleman/rush project I used for generating levels.
 
-#### You can alter size of the grid by changing value of var Puzzle size in game/PuzzleSize.
+#### You can alter size of the grid by changing value of var Puzzle size in game/board.
